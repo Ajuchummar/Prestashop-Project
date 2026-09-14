@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Final_Project.ContactUS"/>
+      <class name="Final_Project.Addcartoutside"/>
+      <class name="Final_Project.NewUser"/>
+      <class name="Final_Project.OrderTrackingTest"/>
+      <class name="Final_Project.Signin"/>
+      <class name="Final_Project.ForgotPassword"/>
+      <class name="Final_Project.Home"/>
+      <class name="Final_Project.AddToCartTest"/>
+      <class name="Final_Project.ProductFilterTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
