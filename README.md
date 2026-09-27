@@ -1,4 +1,4 @@
-QA TESTING
+# TESTING - PrestaShop
 
 This project delivered end-to-end QA testing for the PrestaShop demo storefront (https://demo.prestashop.com/#/en/front), 
 covering functional, UI/UX, cross-browser, integration, and regression testing across core customer journeys — 
