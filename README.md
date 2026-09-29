@@ -44,13 +44,13 @@ and the QA team's final recommendation was to hold production deployment pending
 - Excel
 - Eclipse
 
-##Execution Metrics
+## Execution Metrics
 
 - 📅 21 working days (13 Aug – 13 Sep 2026)
 - ✅ 196 test cases executed → 178 passed / 18 failed (90% pass rate)
 - 🐞 16 defects logged — 6 Critical, 6 Major, 4 Minor
 
-##Deliverables
+## Deliverables
 - Test Plan,
 - Test Case & Execution Report
 - RTM
@@ -68,7 +68,7 @@ Test Summary Report :[Google Docs link](https://docs.google.com/document/d/1i3AV
 
 Test Sign-Off Document : [Google Docs link](https://docs.google.com/document/d/1vOWwPJZ949nZXXYPNYFlKJIm4yesP96c/edit)
 
-##Outcome & Recommendation
+## Outcome & Recommendation
 
-Exit criteria not fully met due to open Critical/Major defects
-QA team recommended holding production release pending backend fixes and a retest before deployment
+- Exit criteria not fully met due to open Critical/Major defects
+- QA team recommended holding production release pending backend fixes and a retest before deployment
