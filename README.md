@@ -1,5 +1,9 @@
 # TESTING - PrestaShop
 
+Project Overview
+PrestaShop is a demo e-commerce web application tested using Manual Testing and Selenium Automation Testing.
+The project focuses on validating core e-commerce functionalities including Registration, Login, Product Navigation, Shopping Cart, Checkout, and Logout.
+
 This project delivered end-to-end QA testing for the PrestaShop demo storefront (https://demo.prestashop.com/#/en/front), 
 covering functional, UI/UX, cross-browser, integration, and regression testing across core customer journeys — 
 home page, product catalog/search/filters, cart, checkout, customer registration/login, password recovery, order tracking, and the Contact Us form —
