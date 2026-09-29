@@ -50,6 +50,14 @@ and the QA team's final recommendation was to hold production deployment pending
 - ✅ 196 test cases executed → 178 passed / 18 failed (90% pass rate)
 - 🐞 16 defects logged — 6 Critical, 6 Major, 4 Minor
 
+##Deliverables
+- Test Plan,
+- Test Case & Execution Report
+- RTM
+- Defect/Bug Report
+- Test Summary Report
+- Test Sign-Off document
+
 ## Testing Documents
 
 Test Plan : [Google Docs link](https://docs.google.com/document/d/1G5Tv0j7eKSISBkm8STP4Ox_cD9H_R-6E/edit?rtpof=true&tab=t.0)
@@ -59,3 +67,7 @@ Prestashop_Test Case & Execution Report + Defect report document: [Google Sheets
 Test Summary Report :[Google Docs link](https://docs.google.com/document/d/1i3AV--9Jb3IksWKX5Ecxpj8lHuG13Nev/edit)
 
 Test Sign-Off Document : [Google Docs link](https://docs.google.com/document/d/1vOWwPJZ949nZXXYPNYFlKJIm4yesP96c/edit)
+
+##Outcome & Recommendation
+Exit criteria not fully met due to open Critical/Major defects
+QA team recommended holding production release pending backend fixes and a retest before deployment
