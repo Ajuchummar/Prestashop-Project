@@ -21,8 +21,7 @@ https://docs.google.com/document/d/1G5Tv0j7eKSISBkm8STP4Ox_cD9H_R-6E/edit?rtpof=
 Prestashop_Test Case & Execution Report + Defect report document: 
 https://docs.google.com/spreadsheets/d/1aBX811m0uOYLxzqvoJA1REjzHg8Q4h03/edit?gid=2014397823#gid=2014397823
 
-Test Summary Report :
-https://docs.google.com/document/d/1i3AV--9Jb3IksWKX5Ecxpj8lHuG13Nev/edit
+Test Summary Report :[Test Summary](https://docs.google.com/document/d/1i3AV--9Jb3IksWKX5Ecxpj8lHuG13Nev/edit)
 
 Test Sign-Off Document :
 https://docs.google.com/document/d/1vOWwPJZ949nZXXYPNYFlKJIm4yesP96c/edit
