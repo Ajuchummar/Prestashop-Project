@@ -69,5 +69,6 @@ Test Summary Report :[Google Docs link](https://docs.google.com/document/d/1i3AV
 Test Sign-Off Document : [Google Docs link](https://docs.google.com/document/d/1vOWwPJZ949nZXXYPNYFlKJIm4yesP96c/edit)
 
 ##Outcome & Recommendation
+
 Exit criteria not fully met due to open Critical/Major defects
 QA team recommended holding production release pending backend fixes and a retest before deployment
