@@ -3,7 +3,7 @@
 
 ## Application Under Test
 Application: Prestashop
-URL: [prestashop](https://demo.prestashop.com/#/en/front))
+URL: [prestashop](https://demo.prestashop.com/#/en/front)
 
 ##Project Overview
 PrestaShop is a demo e-commerce web application tested using Manual Testing and Selenium Automation Testing.
