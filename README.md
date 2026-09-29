@@ -14,6 +14,45 @@ Full traceability was maintained via a Test Plan,Test Case/Execution report, RTM
 While functional and integration flows largely passed, the outstanding Critical and Major defects meant the exit criteria weren't fully met, 
 and the QA team's final recommendation was to hold production deployment pending backend fixes and a retest of the 4 deferred high-priority issues.
 
+## Testing Scope
+Home Page
+
+Navigation / Categories
+
+Product Catalog
+
+Search
+
+Product Filters
+
+Cart
+
+Customer Sign In
+
+Create Account
+
+Forgot Password
+
+Checkout
+
+Contact Us
+
+Order Tracking
+
+UI / Usability
+
+Compatibility
+
+Security / Performance
+
+## Tools & Technologies
+- Manual Testing
+- Java
+- Selenium
+- TestNG
+
+
+## Testing Documents
 
 Test Plan : [Google Docs link](https://docs.google.com/document/d/1G5Tv0j7eKSISBkm8STP4Ox_cD9H_R-6E/edit?rtpof=true&tab=t.0)
 
