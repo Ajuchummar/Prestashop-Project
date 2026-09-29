@@ -20,35 +20,21 @@ While functional and integration flows largely passed, the outstanding Critical 
 and the QA team's final recommendation was to hold production deployment pending backend fixes and a retest of the 4 deferred high-priority issues.
 
 ## Testing Scope
-Home Page
-
-Navigation / Categories
-
-Product Catalog
-
-Search
-
-Product Filters
-
-Cart
-
-Customer Sign In
-
-Create Account
-
-Forgot Password
-
-Checkout
-
-Contact Us
-
-Order Tracking
-
-UI / Usability
-
-Compatibility
-
-Security / Performance
+- Home Page
+- Navigation / Categories
+- Product Catalog
+- Search
+- Product Filters
+- Cart
+- Customer Sign In
+- Create Account
+- Forgot Password
+- Checkout
+- Contact Us
+- Order Tracking
+- UI / Usability
+- Compatibility
+- Security / Performance
 
 ## Tools & Technologies
 - Manual Testing
@@ -58,12 +44,11 @@ Security / Performance
 - Excel
 - Eclipse
 
-Test Type	Total	Passed	Failed	Not Executed
-Functional	180	160	18	0
-UI/UX	5	5	0	0
-Compatibility	5	5	0	0
-Integration	6	6	0	0
+##Execution Metrics
 
+- 📅 21 working days (13 Aug – 13 Sep 2026)
+- ✅ 196 test cases executed → 178 passed / 18 failed (90% pass rate)
+- 🐞 16 defects logged — 6 Critical, 6 Major, 4 Minor
 
 ## Testing Documents
 
