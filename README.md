@@ -5,7 +5,8 @@
 Application: Prestashop
 - URL: [prestashop](https://demo.prestashop.com/#/en/front)
 
-##Project Overview
+## Project Overview
+
 PrestaShop is a demo e-commerce web application tested using Manual Testing and Selenium Automation Testing.
 The project focuses on validating core e-commerce functionalities including Registration, Login, Product Navigation, Shopping Cart, Checkout, and Logout.
 
