@@ -15,13 +15,10 @@ While functional and integration flows largely passed, the outstanding Critical 
 and the QA team's final recommendation was to hold production deployment pending backend fixes and a retest of the 4 deferred high-priority issues.
 
 
-Test Plan : 
-https://docs.google.com/document/d/1G5Tv0j7eKSISBkm8STP4Ox_cD9H_R-6E/edit?rtpof=true&tab=t.0
+Test Plan : [Google Docs link](https://docs.google.com/document/d/1G5Tv0j7eKSISBkm8STP4Ox_cD9H_R-6E/edit?rtpof=true&tab=t.0)
 
-Prestashop_Test Case & Execution Report + Defect report document: 
-https://docs.google.com/spreadsheets/d/1aBX811m0uOYLxzqvoJA1REjzHg8Q4h03/edit?gid=2014397823#gid=2014397823
+Prestashop_Test Case & Execution Report + Defect report document: [Google Sheets link](https://docs.google.com/spreadsheets/d/1aBX811m0uOYLxzqvoJA1REjzHg8Q4h03/edit?gid=2014397823#gid=2014397823)
 
-Test Summary Report :[Test Summary](https://docs.google.com/document/d/1i3AV--9Jb3IksWKX5Ecxpj8lHuG13Nev/edit)
+Test Summary Report :[Google Docs link](https://docs.google.com/document/d/1i3AV--9Jb3IksWKX5Ecxpj8lHuG13Nev/edit)
 
-Test Sign-Off Document :
-https://docs.google.com/document/d/1vOWwPJZ949nZXXYPNYFlKJIm4yesP96c/edit
+Test Sign-Off Document : [Google Docs link](https://docs.google.com/document/d/1vOWwPJZ949nZXXYPNYFlKJIm4yesP96c/edit)
